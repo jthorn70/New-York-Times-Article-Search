@@ -1,0 +1,25 @@
+#header{
+    background-color: #23305C;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+    text-align: center;
+    padding: 40px 60px 40px 60px;
+    margin-bottom: 20px;
+}
+.form {
+    border-left: 2px solid lightgrey;
+    border-right: 2px solid lightgrey;
+    border-bottom: 2px solid lightgrey;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.top{
+    font-weight: bold;
+    background-color: lightgray;
+    color: #444;
+    padding: 10px;
+}
+.width{
+    width: 100%;
+}
